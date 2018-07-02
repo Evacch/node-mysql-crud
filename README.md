@@ -1,2 +1,2 @@
 # node-mysql-crud
-Crud operation with node.js and mysql
+Simple crud operation with node.js and mysql
